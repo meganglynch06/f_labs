@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class lab_2
+public class Lab_2
 {
 	public static void main(String[] args)
 	{	
